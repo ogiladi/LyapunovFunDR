@@ -1,2 +1,2 @@
 # LyapunovFunDR
-Accompanying code for the paper "A Lyapunov function construction for the Douglas-Rachford operator in a non-convex setting". The preprint can be found at http://arxiv.org/abs/1708.08697.
+Accompanying code for the paper "A Lyapunov Function Construction for a Non-convex Douglas–Rachford Iteration". The preprint can be found at http://arxiv.org/abs/1708.08697.
